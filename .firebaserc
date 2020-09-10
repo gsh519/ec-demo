@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ec-demo-51544"
+  },
+  "targets": {
+    "ec-demo-51544": {
+      "hosting": {
+        "ec-demo": [
+          "ec-demo-51544"
+        ]
+      }
+    }
+  }
+}
